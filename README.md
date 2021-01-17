@@ -1,7 +1,3 @@
 # umikujira
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=umikujira&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umikujira" />
-</a>
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=umikujira&count_private=true)]
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=umikujira&layout=compact&count_private=true&)
